@@ -1,0 +1,6 @@
+[submodule "Docs/ReportMasse-paper"]
+	path = Docs/ReportMasse-paper
+	url = git@github.com:JusteRaimbault/ReportMasse-paper.git
+[submodule "Models/ReportMasse"]
+	path = Models/ReportMasse
+	url = git@github.com:JusteRaimbault/ReportMasse.git
